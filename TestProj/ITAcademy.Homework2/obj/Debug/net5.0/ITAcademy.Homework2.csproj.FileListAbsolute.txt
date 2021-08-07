@@ -1,0 +1,16 @@
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.csproj.AssemblyReference.cache
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.AssemblyInfoInputs.cache
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.AssemblyInfo.cs
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.csproj.CoreCompileInputs.cache
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.exe
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.deps.json
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.runtimeconfig.json
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.runtimeconfig.dev.json
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.dll
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ref\ITAcademy.Homework2.dll
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\bin\Debug\net5.0\ITAcademy.Homework2.pdb
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.dll
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ref\ITAcademy.Homework2.dll
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.pdb
+D:\IT-Academy\CSharp\TestProj\ITAcademy.Homework2\obj\Debug\net5.0\ITAcademy.Homework2.genruntimeconfig.cache
