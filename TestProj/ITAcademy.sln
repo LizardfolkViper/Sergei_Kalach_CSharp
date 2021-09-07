@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITAcademy.Homework1", "TestProj\ITAcademy.Homework1.csproj", "{06BBFB18-B297-4B4A-A5EC-AC8F97C1E5D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.Homework2", "ITAcademy.Homework2\ITAcademy.Homework2.csproj", "{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITAcademy.Homework2", "ITAcademy.Homework2\ITAcademy.Homework2.csproj", "{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.Homework.OOP", "ITAcademy.Homework2.1\ITAcademy.Homework.OOP.csproj", "{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

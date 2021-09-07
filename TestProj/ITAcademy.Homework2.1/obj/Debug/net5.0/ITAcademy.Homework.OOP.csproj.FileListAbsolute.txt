@@ -1,0 +1,16 @@
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.exe
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.deps.json
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.runtimeconfig.json
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.runtimeconfig.dev.json
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.dll
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ref\ITAcademy.Homework.OOP.dll
+D:\Coding\TestProj\ITAcademy.Homework2.1\bin\Debug\net5.0\ITAcademy.Homework.OOP.pdb
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.csproj.AssemblyReference.cache
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.AssemblyInfoInputs.cache
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.AssemblyInfo.cs
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.csproj.CoreCompileInputs.cache
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.dll
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ref\ITAcademy.Homework.OOP.dll
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.pdb
+D:\Coding\TestProj\ITAcademy.Homework2.1\obj\Debug\net5.0\ITAcademy.Homework.OOP.genruntimeconfig.cache

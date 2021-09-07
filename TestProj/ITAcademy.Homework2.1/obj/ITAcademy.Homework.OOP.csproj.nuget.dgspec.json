@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\TestProj\\ITAcademy.Homework2\\ITAcademy.Homework2.csproj": {}
+    "D:\\Coding\\TestProj\\ITAcademy.Homework2.1\\ITAcademy.Homework.OOP.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\TestProj\\ITAcademy.Homework2\\ITAcademy.Homework2.csproj": {
+    "D:\\Coding\\TestProj\\ITAcademy.Homework2.1\\ITAcademy.Homework.OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\TestProj\\ITAcademy.Homework2\\ITAcademy.Homework2.csproj",
-        "projectName": "ITAcademy.Homework2",
-        "projectPath": "D:\\Coding\\TestProj\\ITAcademy.Homework2\\ITAcademy.Homework2.csproj",
+        "projectUniqueName": "D:\\Coding\\TestProj\\ITAcademy.Homework2.1\\ITAcademy.Homework.OOP.csproj",
+        "projectName": "ITAcademy.Homework.OOP",
+        "projectPath": "D:\\Coding\\TestProj\\ITAcademy.Homework2.1\\ITAcademy.Homework.OOP.csproj",
         "packagesPath": "C:\\Users\\Zmey\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\TestProj\\ITAcademy.Homework2\\obj\\",
+        "outputPath": "D:\\Coding\\TestProj\\ITAcademy.Homework2.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
