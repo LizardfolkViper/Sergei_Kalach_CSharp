@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITAcademy.Homework1", "Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITAcademy.Homework2", "ITAcademy.Homework2\ITAcademy.Homework2.csproj", "{7576A336-3F1F-475D-8064-C2DC7A4DE8E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.Homework.OOP", "ITAcademy.Homework2.1\ITAcademy.Homework.OOP.csproj", "{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITAcademy.Homework.OOP", "ITAcademy.Homework2.1\ITAcademy.Homework.OOP.csproj", "{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAcademy.Homework.Text", "ITAcademy.Homework.Text\ITAcademy.Homework.Text.csproj", "{D36CF08A-09DA-476C-874A-F6F2C115A833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3E12BE1-C874-4C63-8DD4-4017B1A1D69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36CF08A-09DA-476C-874A-F6F2C115A833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36CF08A-09DA-476C-874A-F6F2C115A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36CF08A-09DA-476C-874A-F6F2C115A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36CF08A-09DA-476C-874A-F6F2C115A833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ITAcademy.Homework.Text/1.0.0": {
+        "runtime": {
+          "ITAcademy.Homework.Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITAcademy.Homework.Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
