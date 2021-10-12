@@ -1,0 +1,16 @@
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.exe
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.deps.json
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.runtimeconfig.json
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.runtimeconfig.dev.json
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.dll
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ref\ITAcademy.Homework.Telecomms.dll
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\bin\Debug\net5.0\ITAcademy.Homework.Telecomms.pdb
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.csproj.AssemblyReference.cache
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.AssemblyInfoInputs.cache
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.AssemblyInfo.cs
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.csproj.CoreCompileInputs.cache
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.dll
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ref\ITAcademy.Homework.Telecomms.dll
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.pdb
+D:\Coding\TestProj\ITAcademy.Homework.Telecomms\obj\Debug\net5.0\ITAcademy.Homework.Telecomms.genruntimeconfig.cache
